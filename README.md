@@ -1,2 +1,2 @@
 # miWiFi-el
-latest greek translated miWiFi strings.xml 
+Greek strings.xml for latest miWiFi android app. 
